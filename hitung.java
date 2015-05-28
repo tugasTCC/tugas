@@ -23,7 +23,7 @@ public class hitung {
 		System.out.print("Masukan Nilai Alas dalam cm : ");
 		alas=s.nextInt();
 		
-		System.out.print("Masukan Nilai Tinggi dalam cm : ");
+		System.out.print("Masukan Nilai Tinggi dalam cm  : ");
 		tinggi=s.nextInt();
 		
 		luas=(alas*tinggi) / 2;
